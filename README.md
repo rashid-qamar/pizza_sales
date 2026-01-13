@@ -59,3 +59,8 @@ This project analyzes pizza sales data to uncover key business insights using **
 ## 📬 Contact  
 If you want to connect or discuss this project:  
 **LinkedIn:** *(https://www.linkedin.com/in/rashid-qamar/)*
+
+---
+
+## 🖼️ Dashboard Screenshots  
+<img width="1394" height="784" alt="Screenshot 2026-01-13 221324" src="https://github.com/user-attachments/assets/afdf0e61-4e50-49e9-95e0-29f148aa3e8f" />
