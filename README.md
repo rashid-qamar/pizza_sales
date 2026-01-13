@@ -1,35 +1,61 @@
 # 🍕 Pizza Sales Analysis | Excel & Power BI Dashboard  
-**SQL | Excel | Power BI | Dashboard**
+**SQL | Excel | Power BI | Data Analysis | Interactive Dashboard**
 
-**📌 Project Overview**  
-This project analyzes pizza sales data to uncover key business insights using SQL queries and an interactive Excel dashboard.
+---
 
-**🛠 Tools & Technologies**
-SQL (Data extraction & analysis)  
-Microsoft Excel (Dashboard & visualization)  
-Charts: Bar, Pie, Donut, Line, Funnel  
-Slicers for interactivity  
-Bar Chart Line Chart Pie Chart Funnel Chart Slicers  
+## 📌 Project Overview  
+This project analyzes pizza sales data to uncover key business insights using **SQL** and presents them through an **interactive dashboard** built in **Excel / Power BI**.
 
-**📊 Key KPIs**
-Total Orders  
-Total Sales  
-Average Sales  
-Average Orders per Day  
+---
 
-**📈 Analysis Performed**
-Daily sales trend  
+## 🛠 Tools & Technologies  
+- **SQL** (Data extraction & analysis)  
+- **Microsoft Excel** (Dashboard & visualization)  
+- **Power BI** (Interactive reporting)  
+- **Charts Used:** Bar, Pie, Donut, Line, Funnel  
+- **Slicers:** Date, Category, Size (for interactivity)
 
-Hourly order trend  
+---
 
-Best and worst performing pizzas  
+## 📊 Key KPIs  
+- ✅ Total Orders  
+- ✅ Total Sales (Revenue)  
+- ✅ Average Sales  
+- ✅ Average Orders per Day  
 
-Category-wise and size-wise performance  
+---
 
-Sales Analysis Trend Analysis Business Insights  
+## 📈 Analysis Performed  
+- 📅 **Daily Sales Trend** (which day has the most orders)  
+- ⏰ **Hourly Order Trend** (peak ordering hours)  
+- 🏆 **Best & Worst Performing Pizzas**  
+- 🍕 **Category-wise Performance**  
+- 📏 **Size-wise Performance**  
 
+---
 
-**🔍 Insights**
-Identified peak order hours and high-demand days
-Found top-selling and least-selling pizza items
-Helped understand customer ordering behavior
+## 🔍 Key Insights  
+- Orders are highest during **peak hours** and on **high-demand days**  
+- Identified **top-selling** and **least-selling** pizzas  
+- Helped understand **customer ordering behavior** for better planning and sales strategy  
+
+---
+
+## 📂 Project Files  
+- `pizza_sales.xlsx` → Raw data  
+- `pizza_dashboard.xlsx` → Excel dashboard  
+- `powerbi_dashboard.pbix` → Power BI report  
+- `sql_queries.sql` → SQL analysis queries  
+
+---
+
+## ⭐ Dashboard Highlights  
+- Interactive filters using slicers  
+- Trend analysis to track performance over time  
+- Quick insights through KPI cards and category breakdowns  
+
+---
+
+## 📬 Contact  
+If you want to connect or discuss this project:  
+**LinkedIn:** *(https://www.linkedin.com/in/rashid-qamar/)*
