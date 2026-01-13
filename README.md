@@ -1,5 +1,5 @@
-#🍕 Pizza Sales Analysis | Excel & Power BI Dashboard
-SQL Excel KPIs Data Analysis Visualization Interactive Dashboard
+*🍕 Pizza Sales Analysis | Excel & Power BI Dashboard
+SQL Excel KPIs Data Analysis Visualization Interactive Dashboard*
 
 #📌 Project Overview
 This project analyzes pizza sales data to uncover key business insights using SQL queries and an interactive Excel dashboard.
